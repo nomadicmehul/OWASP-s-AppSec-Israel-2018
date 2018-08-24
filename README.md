@@ -4,7 +4,7 @@ AppSec Israel 2018 will take place on 5-6 September, 2018 at Tel Aviv University
 * Title : Serverless Authentication with JWT
 * Description : Authentication is one of the big parts of every application. Security is always something that is changing and evolving. In this talk, I will cover what JSON Web Tokens (JWTs) are and why using JWTs in your applications when it comes to security is awesome.
 
-** Complete agenda can be found [here](https://2018.appsecil.org/Agenda)
+### Complete agenda can be found [here](https://2018.appsecil.org/Agenda)
 
 ### Goals : 
 
