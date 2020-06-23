@@ -18,6 +18,10 @@ AppSec Israel 2018 will take place on 5-6 September, 2018 at Tel Aviv University
 
 * Open-Minded 
 
+<h2><a href="https://medium.com/@rowdymehul/owasps-appsec-israel-2018-e7ca81a00f04">Blog</a></h2>
+
+<h2><a href="https://youtu.be/Afc70zLp5EA">Talk Video</a></h2>
+
 ### Community Channels: 
 [![Follow Auth0 at https://twitter.com/auth0](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40auth0)](https://twitter.com/auth0)
 
